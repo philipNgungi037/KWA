@@ -2,6 +2,15 @@ h1{
     color:green;
     font-size:60px
 }
+/* div {
+    width: 100px;
+    height: 100px;
+    background-color: lightgray;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 20px;
+  } */
+
 /* div{
     grid-column: span;
     column-fill: balance;
